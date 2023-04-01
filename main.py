@@ -130,7 +130,7 @@ while play=="y":
 	else:
 		BET= get_BET(BET)
 		while BET > deposit:
-			print(f"Eneter an amount less than or equal to $ {deposit}")
+			print(f"Enter an amount less than or equal to $ {deposit}")
 			BET = get_BET(BET)
 			if BET <= deposit:
 				break	
