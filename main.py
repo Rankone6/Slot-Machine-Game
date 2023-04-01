@@ -1,3 +1,4 @@
+#My Slot Machine Program
 
 x = ["A", "B", "C", "D"]
 x1= x[:]
